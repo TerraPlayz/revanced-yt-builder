@@ -3,6 +3,6 @@ enabled = true
 build-mode = "apk"                   # 'apk'
 excluded-patches = ""       # space-seperated patches to exclude (multiline strings are not supported)
 included-patches = "disable-auto-captions disable-shorts-on-startup premium-heading sponsorblock swipe-controls theme vanced-microg-support video-ads video-speed old-quality-layout  external-downloads  hdr-auto-brightness hide-ads"                # space-seperated patches to include (non-excluded patches are included by default)
-version = "beta"                     # 'auto', 'latest', 'beta' or a custom one like '18.11.35'
+version = "18.19.35"                     # 'auto', 'latest', 'beta' or a custom one like '18.11.35'
 exclusive-patches = true            # excludes all patches by default
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
